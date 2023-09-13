@@ -1,0 +1,1 @@
+This project experiments BART model for translate languages from ENG to VNI and VNI to ENG. Expect trained BART model is placed in 'model' folder to run Flask app
